@@ -13,7 +13,8 @@
 ### Installation
 
 1.  `git clone https://github.com/hoanghiep90/sales_taxes.git && cd sales_taxes`
-2. Run Project: `ruby classes/run_app.rb`
+2. `bundle install`
+3. Run Project: `ruby classes/run_app.rb`
 
 
 # Running tests
